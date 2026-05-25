@@ -67,7 +67,7 @@ Make sure you have [Node.js](https://nodejs.org/) (v14 or higher) installed on y
 - `npm run preview`: Locally previews the production build.
 
 ## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/YourUsername/onsus-e-commerce/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
 
 ## 📄 Contact
 Crafted with ❤️ by Omar Kareem. Connect with me on [LinkedIn](https://www.linkedin.com/in/engomarkarim/).
